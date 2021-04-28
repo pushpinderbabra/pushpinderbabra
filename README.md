@@ -1,17 +1,13 @@
 ### Hi, I'm Pushpinder Babra 👋
 
-<h3 align="center">I am pursuing Masters of Computer Application and graduate in Bachelor of Computer Applications.</h3>
+#### I am pursuing Masters of Computer Application and graduate in Bachelor of Computer Applications
 
 <p align="left"> <a href="https://twitter.com/pushpinderbabra" target="blank"><img src="https://img.shields.io/twitter/follow/pushpinderbabra?logo=twitter&style=for-the-badge" alt="pushpinderbabra" /></a> </p>
 
 - 🔭 I’m currently working as **Android Developer Freelancer at UpWorks and Fiverr**
-
 - 🌱 I’m currently learning **everything 🤣**
-
 - 🥅 2020 Goals: Contribute more to **Contribute more to App Development**
-
 - 📫 How to reach me **pushpinderbabra@gmail.com**
-
 - ⚡ Fun fact **I love to travel new places**
 
 <h3 align="left">Connect with me:</h3>
