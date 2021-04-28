@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushpinder Babra</h1>
 <h3 align="center">I am Graduate in Bachelor of Computer Applications and pursuing Masters of Computer Application.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpinderbabra&label=Profile%20views&color=0e75b6&style=flat" alt="pushpinderbabra" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/pushpinderbabra" target="blank"><img src="https://img.shields.io/twitter/follow/pushpinderbabra?logo=twitter&style=for-the-badge" alt="pushpinderbabra" /></a> </p>
 
 - 🔭 I’m currently working as **Android Developer Freelancer at UpWorks and Fiverr**
@@ -18,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pushpinderbabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pushpinderbabra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pushpinder-babra-669b93207/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pushpinderbabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 <a href="https://instagram.com/pushpinderbabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pushpinderbabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="pushpinderbabra" height="30" width="40" /></a>
