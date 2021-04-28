@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pushpinder-babra-669b93207/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pushpinderbabra" height="30" width="40" /></a>
+<a href="https://twitter.com/pushpinderbabra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pushpinder-babra-669b93207/?originalSubdomain=in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="pushpinderbabra" height="30" width="40" /></a>
-<a href="https://instagram.com/pushpinderbabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="pushpinderbabra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pushpinderbabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="pushpinderbabra" height="30" width="40" /></a>
+<a href="https://instagram.com/pushpinderbabra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="pushpinderbabra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pushpinderbabra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
