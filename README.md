@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **Android Developer Freelancer at UpWorks and Fiverr**
 - 🌱 I’m currently learning **everything 🤣**
-- 🥅 2021 Goals: Contribute more to **Contribute more to App Development Projects**
+- 🥅 2021 Goals: **Contribute more to App Development Projects**
 - 📫 How to reach me **pushpinderbabra@gmail.com**
 - ⚡ Fun fact **I love to travel new places**
 
