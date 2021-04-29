@@ -20,7 +20,7 @@
 <a href="https://twitter.com/pushpinderbabra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pushpinder-babra-669b93207/?originalSubdomain=in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 <a href="https://instagram.com/pushpinderbabra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="pushpinderbabra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/pushpinderbabra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="pushpinderbabra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9M-1mXZjRCm7aEtnT9LnRQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="pushpinderbabra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
