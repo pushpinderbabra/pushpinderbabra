@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/pushpinderbabra" target="blank"><img src="https://img.shields.io/twitter/follow/pushpinderbabra?logo=twitter&style=for-the-badge" alt="pushpinderbabra" /></a> </p>
 
 - 🔭 I’m currently working as **Android Developer Freelancer at UpWorks and Fiverr**
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently learning **FLUTTER**
 - 🥅 2021 Goals: **Contribute more to App Development Projects**
 - 📫 How to reach me **pushpinderbabra@gmail.com**
 - ⚡ Fun fact **I love to travel new places**
